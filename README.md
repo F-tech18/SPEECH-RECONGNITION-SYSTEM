@@ -65,3 +65,4 @@ Create UI like Google Voice Typing
 
 
 OUTUT
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6c37fdcd-8cba-4b20-85fe-f42e4cfa7718" />
