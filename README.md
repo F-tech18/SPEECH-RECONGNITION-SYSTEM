@@ -37,6 +37,31 @@ It is designed as a simple yet scalable backend service using FastAPI.
 - SpeechRecognition
 - Pydantic
 
----
+⚠️ Limitations
+Supports only .wav format
+Requires clear audio
+Internet required (Google Speech API)
+💡 Future Improvements
+🤖 Integrate Wav2Vec2 (offline AI model)
+🎙️ Real-time microphone input
+📂 Support multiple audio formats (MP3, FLAC)
+🌐 Build frontend UI (Streamlit / React)
+☁️ Deploy on cloud
+💡 Design Approach
+
+Built as a modular AI microservice that can be extended for real-time speech applications.
+
+❤️ Built With
+Python 🐍
+FastAPI ⚡
+SpeechRecognition 🎤
+⭐ Support
+
+
+Add deep learning (Wav2Vec2)
+Build live voice assistant
+Create UI like Google Voice Typing
+
+
 
 OUTUT
